@@ -1,0 +1,6 @@
+# KernelFlow — CPU Scheduling Simulator
+# Python 3.8+ required
+# Tkinter is bundled with standard Python (no install needed)
+
+matplotlib>=3.7.0
+numpy>=1.24.0
